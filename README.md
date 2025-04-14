@@ -45,6 +45,7 @@ The following KPIs were used to measure customer satisfaction and product perfor
 - Star rating by class name: Dresses had consistent high ratings while Lounge had a consistent low rating.
 
 ## DATA VISUALIZATION
+![Table](https://github.com/Ola-ykay/Women-s-Clothing-E-commerce-Review/blob/main/Table.png)
 
 ## RECOMMENDATION
 1. **Fix Low-Rated Products:**  
