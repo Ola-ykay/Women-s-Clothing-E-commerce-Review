@@ -8,7 +8,7 @@
 - [KPIs](#kpis)  
 - [INSIGHTS](#insights)
 - [DATA VISUALIZATION](#data-visualization)
-- [RECOMMENDATION](#recommendations)  
+- [RECOMMENDATION](#recommendation)  
 
 ## PROJECT OVERVIEW
 This project analyzes customer reviews from an e-commerce clothing retailer to extract meaningful insights about product performance and customer satisfaction. The dataset includes 23,486 customer reviews with attributes like star ratings, recommendations, positive feedback count, and product categories.
