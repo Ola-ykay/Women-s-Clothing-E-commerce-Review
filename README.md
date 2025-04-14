@@ -47,6 +47,7 @@ The following KPIs were used to measure customer satisfaction and product perfor
 ## DATA VISUALIZATION
 ![Table](https://github.com/Ola-ykay/Women-s-Clothing-E-commerce-Review/blob/main/Table.png)
 ![dashboard](https://github.com/Ola-ykay/Women-s-Clothing-E-commerce-Review/blob/main/women_clothing_dashboard.png)
+![dashboardtable](https://github.com/Ola-ykay/Women-s-Clothing-E-commerce-Review/blob/main/dashboard-table.png)
 
 ## RECOMMENDATION
 1. **Fix Low-Rated Products:**  
